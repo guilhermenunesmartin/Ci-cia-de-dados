@@ -8,7 +8,7 @@
 }
 
 body {
-    background-color: var(--bg-color);
+    background-color: lightgrey(--bg-color);
     color: var(--primary-color);
     font-family: var(--font);
     height: 100vh;
@@ -16,7 +16,7 @@ body {
 }
 
 header {
-    background-color: var(--primary-color);
+    background-color: cyan(--primary-color);
     text-align: center;
     padding: 1px;
 }
